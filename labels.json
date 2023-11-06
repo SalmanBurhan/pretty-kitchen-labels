@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Cardamom",
+        "name_ur": "الائچی",
+        "category": "Spice"
+    },
+    {
+        "name": "Clove",
+        "name_ur": "لونگ",
+        "category": "Spice"
+    },
+    {
+        "name": "Garam\nMasala",
+        "name_ur": "گرم مصالحہ",
+        "category": "Spice Blend"
+    },
+    {
+        "name": "Black\nPepper",
+        "name_ur": "کالی مرچ",
+        "category": "Seasoning"
+    },
+    {
+        "name": "Cumin",
+        "name_ur": "زیرہ",
+        "category": "Spice"
+    },
+    {
+        "name": "Coriander\nSeeds",
+        "name_ur": "دھنیا کے بیج",
+        "category": "Spice"
+    },
+    {
+        "name": "Mustard\nSeeds",
+        "name_ur": "سرسوں کے بیج",
+        "category": "Spice"
+    },
+    {
+        "name": "Turmeric",
+        "name_ur": "ہلدی",
+        "category": "Spice"
+    },
+    {
+        "name": "Saffron",
+        "name_ur": "زعفران",
+        "category": "Spice"
+    },
+    {
+        "name": "Bay Leaves",
+        "name_ur": "تیز پتہ",
+        "category": "Herb"
+    },
+    {
+        "name": "Cayenne",
+        "name_ur": "کایان",
+        "category": "Spice"
+    },
+    {
+        "name": "Chili\nPowder",
+        "name_ur": "لال مرچ پاؤڈر",
+        "category": "Spice"
+    },
+    {
+        "name": "Cinnamon",
+        "name_ur": "دار چینی",
+        "category": "Spice"
+    },
+    {
+        "name": "Curry\nPowder",
+        "name_ur": "کری پاؤڈر",
+        "category": "Spice"
+    },
+    {
+        "name": "Oregano",
+        "name_ur": "اوریگانو",
+        "category": "Seasoning"
+    },
+    {
+        "name": "Paprika",
+        "name_ur": "پیپریکا",
+        "category": "Spice"
+    },
+    {
+        "name": "Red Pepper\nFlakes",
+        "name_ur": "لال مرچ کے فلیکس",
+        "category": "Spice"
+    },
+    {
+        "name": "Salt",
+        "name_ur": "نمک",
+        "category": "Organic Mineral"
+    },
+    {
+        "name": "Himalayan\nPink Salt",
+        "name_ur": "ہمالیہ گلابی نمک",
+        "category": "Organic Mineral"
+    },
+    {
+        "name": "Sugar",
+        "name_ur": "چینی",
+        "category": "Sweetener"
+    },
+    {
+        "name": "Brown\nSugar",
+        "name_ur": "بھوری چینی",
+        "category": "Sweetener"
+    },
+    {
+        "name": "Stevia",
+        "name_ur": "سٹیویا",
+        "category": "Sweetener"
+    },
+    {
+        "name": "Flour",
+        "name_ur": "آٹا",
+        "category": "Cereal Grain"
+    },
+    {
+        "name": "Spaghetti",
+        "name_ur": "سپتیٹی",
+        "category": "Pasta"
+    },
+    {
+        "name": "Red Lentils",
+        "name_ur": "مصور کی دال",
+        "category": "Lentils"
+    },
+    {
+        "name": "Couscous",
+        "name_ur": "كسكس",
+        "category": "Cereal Grain"
+    },
+    {
+        "name": "Sesame\nSeeds",
+        "name_ur": "تل کے بیج",
+        "category": "Seed"
+    },
+    {
+        "name": "Quinoa",
+        "name_ur": "کوئنو",
+        "category": "Cereal Grain"
+    },
+    {
+        "name": "Almonds",
+        "name_ur": "بادام",
+        "category": "Nut"
+    },
+    {
+        "name": "Pistachios",
+        "name_ur": "پستے",
+        "category": "Nut"
+    },
+    {
+        "name": "Cashews",
+        "name_ur": "کاجو",
+        "category": "Nut"
+    },
+    {
+        "name": "Oatmeal",
+        "name_ur": "دلیا",
+        "category": "Grain"
+    },
+    {
+        "name": "Basmati\nRice",
+        "name_ur": "باسمتی چاول",
+        "category": "Grain"
+    },
+    {
+        "name": "Brown Rice",
+        "name_ur": "بھورے چاول",
+        "category": "Grain"
+    },
+    {
+        "name": "Jasmine\nRice",
+        "name_ur": "جیسمین چاول",
+        "category": "Grain"
+    },
+    {
+        "name": "Baking\nSoda",
+        "name_ur": "بیکنگ سوڈا",
+        "category": "Leavening Agent"
+    },
+    {
+        "name": "Baking\nPowder",
+        "name_ur": "بیکنگ پاوڈر",
+        "category": "Leavening Agent"
+    },
+    {
+        "name": "Dates",
+        "name_ur": "کھجور",
+        "category": "Stone Fruit"
+    }
+]
