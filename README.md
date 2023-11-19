@@ -8,9 +8,8 @@
  with a respective label.
 
 # Examples
-
-![BasmatiRice](example/Basmati%20Rice.jpeg)
-![Turmeric](example/Turmeric.jpeg)
+|![BasmatiRice](example/Basmati%20Rice.jpeg)|![Turmeric](example/Turmeric.jpeg)|
+|---	|---	|
 
 # Usage
  1. In the `labels.json` file, define the list of entries in the following form:
